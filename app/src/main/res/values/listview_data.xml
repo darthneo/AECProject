@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="my_suitimage_array">
+        <item>@drawable/suitthailandpng</item>
+        
+        
+        
+        
+        
+        
+        
+    </string-array>
+    
+    
+    <string-array name="my_image_array">
+        <item>@drawable/imgthailand</item>
+        <item>@drawable/imgbrunei</item>
+        <item>@drawable/imgcambodia</item>
+        <item>@drawable/imgindonesia</item>
+        <item>@drawable/imglaos</item>
+        <item>@drawable/imgmalaysia</item>
+        <item>@drawable/imgmyanmar</item>
+        <item>@drawable/imgphilippines</item>
+        <item>@drawable/imgsingapore</item>
+        <item>@drawable/imgvietnam</item>
+
+        
+    </string-array>
+    
+    <string-array name="my_string_array">
+        <item>Thailand</item>
+        <item>Brunei</item>
+        <item>Cambodia</item>
+        <item>Indonesia</item>
+        <item>Laos</item>
+        <item>Malaysia</item>
+        <item>Myanmar</item>
+        <item>Philippines</item>
+        <item>Singapore</item>
+        <item>Vietnam</item>
+        
+        </string-array>
+        
+    
+        
+</resources>

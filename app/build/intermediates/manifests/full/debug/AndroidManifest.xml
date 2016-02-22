@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="app.neo.aecproject"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="app.neo.aecproject.SplashScreen"
+            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="app.neo.aecproject.MainActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity android:name="app.neo.aecproject.ThailandActivity" />
+        <activity android:name="app.neo.aecproject.BruneiActivity" />
+        <activity android:name="app.neo.aecproject.datThailandActivity" />
+        <activity android:name="app.neo.aecproject.dat2ThailandActivity" />
+        <activity android:name="app.neo.aecproject.dat3ThailandActivity" />
+        <activity android:name="app.neo.aecproject.dat4ThailandActivity" />
+        <activity android:name="app.neo.aecproject.dat5ThailandActivity" />
+        <activity android:name="app.neo.aecproject.IndonesiaActivity" />
+        <activity android:name="app.neo.aecproject.dat1IndonesiaActivity" />
+        <activity android:name="app.neo.aecproject.dat2IndonesiaActivity" />
+        <activity android:name="app.neo.aecproject.dat3IndonesiaActivity" />
+        <activity android:name="app.neo.aecproject.dat4IndonesiaActivity" />
+        <activity android:name="app.neo.aecproject.dat5IndonesiaActivity" />
+        <activity android:name="app.neo.aecproject.dat1BruneiActivity" />
+        <activity android:name="app.neo.aecproject.dat2BruneiActivity" />
+        <activity android:name="app.neo.aecproject.dat3BruneiActivity" />
+        <activity android:name="app.neo.aecproject.dat4BruneiActivity" />
+        <activity android:name="app.neo.aecproject.dat5BruneiActivity" />
+        <activity android:name="app.neo.aecproject.MalaysiaActivity" />
+        <activity android:name="app.neo.aecproject.dat1MalaysiaActivity" />
+        <activity android:name="app.neo.aecproject.dat2MalaysiaActivity" />
+        <activity android:name="app.neo.aecproject.dat3MalaysiaActivity" />
+        <activity android:name="app.neo.aecproject.dat4MalaysiaActivity" />
+        <activity android:name="app.neo.aecproject.dat5MalaysiaActivity" />
+        <activity android:name="app.neo.aecproject.LaosActivity" />
+        <activity android:name="app.neo.aecproject.dat1LaosActivity" />
+        <activity android:name="app.neo.aecproject.dat2LaosActivity" />
+        <activity android:name="app.neo.aecproject.dat3LaosActivity" />
+        <activity android:name="app.neo.aecproject.dat4LaosActivity" />
+        <activity android:name="app.neo.aecproject.dat5LaosActivity" />
+        <activity android:name="app.neo.aecproject.PhilipinesActivity" />
+        <activity android:name="app.neo.aecproject.dat1PhilipinesActivity" />
+        <activity android:name="app.neo.aecproject.dat2PhilipinesActivity" />
+        <activity android:name="app.neo.aecproject.dat3PhilipinesActivity" />
+        <activity android:name="app.neo.aecproject.dat4PhilipinesActivity" />
+        <activity android:name="app.neo.aecproject.dat5PhilipinesActivity" />
+        <activity android:name="app.neo.aecproject.SingaporeActivity" />
+        <activity android:name="app.neo.aecproject.dat1SingaporeActivity" />
+        <activity android:name="app.neo.aecproject.dat2SingaporeActivity" />
+        <activity android:name="app.neo.aecproject.dat3SingaporeActivity" />
+        <activity android:name="app.neo.aecproject.dat4SingaporeActivity" />
+        <activity android:name="app.neo.aecproject.dat5SingaporeActivity" />
+        <activity android:name="app.neo.aecproject.VietnamActivity" />
+        <activity android:name="app.neo.aecproject.dat1VietnamActivity" />
+        <activity android:name="app.neo.aecproject.dat2VietnamActivity" />
+        <activity android:name="app.neo.aecproject.dat3VietnamActivity" />
+        <activity android:name="app.neo.aecproject.dat4VietnamActivity" />
+        <activity android:name="app.neo.aecproject.dat5VietnamActivity" />
+        <activity android:name="app.neo.aecproject.CambodiaActivity" />
+        <activity android:name="app.neo.aecproject.dat1CambodiaActivity" />
+        <activity android:name="app.neo.aecproject.dat2CambodiaActivity" />
+        <activity android:name="app.neo.aecproject.dat3CambodiaActivity" />
+        <activity android:name="app.neo.aecproject.dat4CambodiaActivity" />
+        <activity android:name="app.neo.aecproject.dat5CambodiaActivity" />
+        <activity android:name="app.neo.aecproject.MyanmarActivity" />
+        <activity android:name="app.neo.aecproject.dat1MyanmarActivity" />
+        <activity android:name="app.neo.aecproject.dat2MyanmarActivity" />
+        <activity android:name="app.neo.aecproject.dat3MyanmarActivity" />
+        <activity android:name="app.neo.aecproject.dat4MyanmarActivity" />
+        <activity android:name="app.neo.aecproject.dat5MyanmarActivity" />
+    </application>
+
+</manifest>

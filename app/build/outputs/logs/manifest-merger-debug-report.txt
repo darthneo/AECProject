@@ -1,0 +1,299 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:2:1-93:12
+	package
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:11:5-91:19
+	android:label
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:15:9-40
+activity#app.neo.aecproject.SplashScreen
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:theme
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:17:16-80
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:16:19-46
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:21:17-68
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:22:17-76
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:22:27-74
+activity#app.neo.aecproject.MainActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:24:20-29:20
+	android:label
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:26:13-45
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:25:13-59
+activity#app.neo.aecproject.ThailandActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:30:9-62
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:30:19-50
+activity#app.neo.aecproject.BruneiActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:31:9-60
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:31:19-48
+activity#app.neo.aecproject.datThailandActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:32:9-65
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:32:19-53
+activity#app.neo.aecproject.dat2ThailandActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:33:9-66
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:33:19-54
+activity#app.neo.aecproject.dat3ThailandActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:34:9-66
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:34:19-54
+activity#app.neo.aecproject.dat4ThailandActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:35:9-66
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:35:19-54
+activity#app.neo.aecproject.dat5ThailandActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:36:9-66
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:36:19-54
+activity#app.neo.aecproject.IndonesiaActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:37:9-63
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:37:19-51
+activity#app.neo.aecproject.dat1IndonesiaActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:38:9-67
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:38:19-55
+activity#app.neo.aecproject.dat2IndonesiaActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:39:9-67
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:39:19-55
+activity#app.neo.aecproject.dat3IndonesiaActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:40:9-67
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:40:19-55
+activity#app.neo.aecproject.dat4IndonesiaActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:41:9-67
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:41:19-55
+activity#app.neo.aecproject.dat5IndonesiaActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:42:9-67
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:42:19-55
+activity#app.neo.aecproject.dat1BruneiActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:43:9-64
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:43:19-52
+activity#app.neo.aecproject.dat2BruneiActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:44:9-64
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:44:19-52
+activity#app.neo.aecproject.dat3BruneiActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:45:9-64
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:45:19-52
+activity#app.neo.aecproject.dat4BruneiActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:46:9-64
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:46:19-52
+activity#app.neo.aecproject.dat5BruneiActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:47:9-64
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:47:19-52
+activity#app.neo.aecproject.MalaysiaActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:48:9-62
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:48:19-50
+activity#app.neo.aecproject.dat1MalaysiaActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:49:9-66
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:49:19-54
+activity#app.neo.aecproject.dat2MalaysiaActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:50:9-66
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:50:19-54
+activity#app.neo.aecproject.dat3MalaysiaActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:51:9-66
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:51:19-54
+activity#app.neo.aecproject.dat4MalaysiaActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:52:9-66
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:52:19-54
+activity#app.neo.aecproject.dat5MalaysiaActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:53:9-66
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:53:19-54
+activity#app.neo.aecproject.LaosActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:54:9-58
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:54:19-46
+activity#app.neo.aecproject.dat1LaosActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:55:9-62
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:55:19-50
+activity#app.neo.aecproject.dat2LaosActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:56:9-62
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:56:19-50
+activity#app.neo.aecproject.dat3LaosActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:57:9-62
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:57:19-50
+activity#app.neo.aecproject.dat4LaosActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:58:9-62
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:58:19-50
+activity#app.neo.aecproject.dat5LaosActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:59:9-62
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:59:19-50
+activity#app.neo.aecproject.PhilipinesActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:60:9-64
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:60:19-52
+activity#app.neo.aecproject.dat1PhilipinesActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:61:9-68
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:61:19-56
+activity#app.neo.aecproject.dat2PhilipinesActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:62:9-68
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:62:19-56
+activity#app.neo.aecproject.dat3PhilipinesActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:63:9-68
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:63:19-56
+activity#app.neo.aecproject.dat4PhilipinesActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:64:9-68
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:64:19-56
+activity#app.neo.aecproject.dat5PhilipinesActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:65:9-68
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:65:19-56
+activity#app.neo.aecproject.SingaporeActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:66:9-63
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:66:19-51
+activity#app.neo.aecproject.dat1SingaporeActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:67:9-67
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:67:19-55
+activity#app.neo.aecproject.dat2SingaporeActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:68:9-67
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:68:19-55
+activity#app.neo.aecproject.dat3SingaporeActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:69:9-67
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:69:19-55
+activity#app.neo.aecproject.dat4SingaporeActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:70:9-67
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:70:19-55
+activity#app.neo.aecproject.dat5SingaporeActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:71:9-67
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:71:19-55
+activity#app.neo.aecproject.VietnamActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:72:9-61
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:72:19-49
+activity#app.neo.aecproject.dat1VietnamActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:73:9-65
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:73:19-53
+activity#app.neo.aecproject.dat2VietnamActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:74:9-65
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:74:19-53
+activity#app.neo.aecproject.dat3VietnamActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:75:9-65
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:75:19-53
+activity#app.neo.aecproject.dat4VietnamActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:76:9-65
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:76:19-53
+activity#app.neo.aecproject.dat5VietnamActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:77:9-65
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:77:19-53
+activity#app.neo.aecproject.CambodiaActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:78:9-62
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:78:19-50
+activity#app.neo.aecproject.dat1CambodiaActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:79:9-66
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:79:19-54
+activity#app.neo.aecproject.dat2CambodiaActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:80:9-66
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:80:19-54
+activity#app.neo.aecproject.dat3CambodiaActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:81:9-66
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:81:19-54
+activity#app.neo.aecproject.dat4CambodiaActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:82:9-66
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:82:19-54
+activity#app.neo.aecproject.dat5CambodiaActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:83:9-66
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:83:19-54
+activity#app.neo.aecproject.MyanmarActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:84:9-61
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:84:19-49
+activity#app.neo.aecproject.dat1MyanmarActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:85:9-65
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:85:19-53
+activity#app.neo.aecproject.dat2MyanmarActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:86:9-65
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:86:19-53
+activity#app.neo.aecproject.dat3MyanmarActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:87:9-65
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:87:19-53
+activity#app.neo.aecproject.dat4MyanmarActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:88:9-65
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:88:19-53
+activity#app.neo.aecproject.dat5MyanmarActivity
+ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:89:9-65
+	android:name
+		ADDED from C:\Users\NEO\StudioProjects\AECProject\app\src\main\AndroidManifest.xml:89:19-53

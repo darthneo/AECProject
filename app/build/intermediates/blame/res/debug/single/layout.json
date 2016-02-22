@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\singapore_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\singapore_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\philipines_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\philipines_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\malaysia_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\malaysia_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datmalaysia1_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datmalaysia1_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cthai_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\cthai_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datmalaysia2_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datmalaysia2_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datmalaysia4_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datmalaysia4_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datcambodia4_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datcambodia4_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_row.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\listview_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datcambodia3_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datcambodia3_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datmalaysia3_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datmalaysia3_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datcambodia2_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datcambodia2_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datcambodia1_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datcambodia1_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datthai1_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datthai1_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datmalaysia5_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datmalaysia5_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datlaos4_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datlaos4_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datthai2_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datthai2_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datmyanmar1_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datmyanmar1_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datindo4_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datindo4_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datthai3_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datthai3_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datlaos2_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datlaos2_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datlaos3_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datlaos3_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splashscreen.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datindo3_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datindo3_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datthai5_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datthai5_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datphilipines3_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datphilipines3_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datthai4_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datthai4_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datindo2_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datindo2_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datphilipines5_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datphilipines5_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datlaos5_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datlaos5_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datphilipines4_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datphilipines4_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datindo1_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datindo1_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\brunei_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\brunei_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datindo5_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datindo5_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\laos_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\laos_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datbrunei3_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datbrunei3_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datphilipines2_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datphilipines2_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datbrunei4_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datbrunei4_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datbrunei5_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datbrunei5_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datphilipines1_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datphilipines1_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datsingapore1_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datsingapore1_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datlaos1_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datlaos1_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\indo_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\indo_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datmyanmar2_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datmyanmar2_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datsingapore2_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datsingapore2_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datsingapore3_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datsingapore3_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datmyanmar3_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datmyanmar3_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datvietnam5_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datvietnam5_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datvietnam3_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datvietnam3_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datmyanmar4_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datmyanmar4_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datsingapore4_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datsingapore4_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vietnam_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\vietnam_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datvietnam2_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datvietnam2_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datmyanmar5_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datmyanmar5_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datvietnam1_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datvietnam1_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cambodia_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\cambodia_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datsingapore5_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datsingapore5_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datcambodia5_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datcambodia5_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datbrunei2_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datbrunei2_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datbrunei1_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datbrunei1_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\myanmar_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\myanmar_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datvietnam4_layout.xml",
+        "source": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\layout\\datvietnam4_layout.xml"
+    }
+]

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="app.neo.aecproject"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity android:name="SplashScreen"
+            	  android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen"
+            	  
+            	  >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity><activity
+            android:name="app.neo.aecproject.MainActivity"
+            android:label="@string/app_name" 
+            
+            >
+        </activity>
+        <activity android:name="ThailandActivity"></activity>
+        <activity android:name="BruneiActivity"></activity>
+        <activity android:name="datThailandActivity"></activity>
+        <activity android:name="dat2ThailandActivity"></activity>
+        <activity android:name="dat3ThailandActivity"></activity>
+        <activity android:name="dat4ThailandActivity"></activity>
+        <activity android:name="dat5ThailandActivity"></activity>
+        <activity android:name="IndonesiaActivity"></activity>
+        <activity android:name="dat1IndonesiaActivity"></activity>
+        <activity android:name="dat2IndonesiaActivity"></activity>
+        <activity android:name="dat3IndonesiaActivity"></activity>
+        <activity android:name="dat4IndonesiaActivity"></activity>
+        <activity android:name="dat5IndonesiaActivity"></activity>
+        <activity android:name="dat1BruneiActivity"></activity>
+        <activity android:name="dat2BruneiActivity"></activity>
+        <activity android:name="dat3BruneiActivity"></activity>
+        <activity android:name="dat4BruneiActivity"></activity>
+        <activity android:name="dat5BruneiActivity"></activity>
+        <activity android:name="MalaysiaActivity"></activity>
+        <activity android:name="dat1MalaysiaActivity"></activity>
+        <activity android:name="dat2MalaysiaActivity"></activity>
+        <activity android:name="dat3MalaysiaActivity"></activity>
+        <activity android:name="dat4MalaysiaActivity"></activity>
+        <activity android:name="dat5MalaysiaActivity"></activity>
+        <activity android:name="LaosActivity"></activity>
+        <activity android:name="dat1LaosActivity"></activity>
+        <activity android:name="dat2LaosActivity"></activity>
+        <activity android:name="dat3LaosActivity"></activity>
+        <activity android:name="dat4LaosActivity"></activity>
+        <activity android:name="dat5LaosActivity"></activity>
+        <activity android:name="PhilipinesActivity"></activity>
+        <activity android:name="dat1PhilipinesActivity"></activity>
+        <activity android:name="dat2PhilipinesActivity"></activity>
+        <activity android:name="dat3PhilipinesActivity"></activity>
+        <activity android:name="dat4PhilipinesActivity"></activity>
+        <activity android:name="dat5PhilipinesActivity"></activity>
+        <activity android:name="SingaporeActivity"></activity>
+        <activity android:name="dat1SingaporeActivity"></activity>
+        <activity android:name="dat2SingaporeActivity"></activity>
+        <activity android:name="dat3SingaporeActivity"></activity>
+        <activity android:name="dat4SingaporeActivity"></activity>
+        <activity android:name="dat5SingaporeActivity"></activity>
+        <activity android:name="VietnamActivity"></activity>
+        <activity android:name="dat1VietnamActivity"></activity>
+        <activity android:name="dat2VietnamActivity"></activity>
+        <activity android:name="dat3VietnamActivity"></activity>
+        <activity android:name="dat4VietnamActivity"></activity>
+        <activity android:name="dat5VietnamActivity"></activity>
+        <activity android:name="CambodiaActivity"></activity>
+        <activity android:name="dat1CambodiaActivity"></activity>
+        <activity android:name="dat2CambodiaActivity"></activity>
+        <activity android:name="dat3CambodiaActivity"></activity>
+        <activity android:name="dat4CambodiaActivity"></activity>
+        <activity android:name="dat5CambodiaActivity"></activity>
+        <activity android:name="MyanmarActivity"></activity>
+        <activity android:name="dat1MyanmarActivity"></activity>
+        <activity android:name="dat2MyanmarActivity"></activity>
+        <activity android:name="dat3MyanmarActivity"></activity>
+        <activity android:name="dat4MyanmarActivity"></activity>
+        <activity android:name="dat5MyanmarActivity"></activity>
+        
+    </application>
+
+</manifest>

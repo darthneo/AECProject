@@ -1,0 +1,205 @@
+[
+    {
+        "outputFile": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 15,
+                    "endColumn": 19,
+                    "endOffset": 548
+                },
+                "from": {
+                    "file": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\values\\listview_data.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 260,
+                        "endLine": 28,
+                        "endColumn": 19,
+                        "endOffset": 766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 553,
+                    "endLine": 28,
+                    "endColumn": 23,
+                    "endOffset": 920
+                },
+                "from": {
+                    "file": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\values\\listview_data.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 778,
+                        "endLine": 42,
+                        "endColumn": 23,
+                        "endOffset": 1157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 925,
+                    "endLine": 38,
+                    "endColumn": 19,
+                    "endOffset": 1095
+                },
+                "from": {
+                    "file": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\values\\listview_data.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 63,
+                        "endLine": 12,
+                        "endColumn": 19,
+                        "endOffset": 242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1100,
+                    "endColumn": 57,
+                    "endOffset": 1153
+                },
+                "from": {
+                    "file": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1158,
+                    "endColumn": 55,
+                    "endOffset": 1209
+                },
+                "from": {
+                    "file": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1214,
+                    "endColumn": 52,
+                    "endOffset": 1262
+                },
+                "from": {
+                    "file": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 160,
+                        "endColumn": 52,
+                        "endOffset": 208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1267,
+                    "endColumn": 46,
+                    "endOffset": 1309
+                },
+                "from": {
+                    "file": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 46,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 1314,
+                    "endColumn": 52,
+                    "endOffset": 1362
+                },
+                "from": {
+                    "file": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 52,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1367,
+                    "endColumn": 61,
+                    "endOffset": 1424
+                },
+                "from": {
+                    "file": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 232,
+                        "endColumn": 68,
+                        "endOffset": 296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 1429,
+                    "endLine": 51,
+                    "endColumn": 12,
+                    "endOffset": 1704
+                },
+                "from": {
+                    "file": "C:\\Users\\NEO\\StudioProjects\\AECProject\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 68,
+                        "startOffset": 296,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 575
+                    }
+                }
+            }
+        ]
+    }
+]
